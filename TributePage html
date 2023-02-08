@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title id="title">Elon Musk</title>
+</head>
+<body><main id="main">
+  <header class="header" title="Navigatie"> 
+    <a class="active logo" href="#" title="Elon Musk">Elon Musk</a>
+  <div class="header-right">
+    <a class="active" href="#Bedrijven" title="Bedrijven">Bedrijven</a>
+    <a class="active" href="#tribute-info" title="Tijdlijn">Tijdlijn</a>
+    <a class="active" href="#Bronnen" title="Bronnen">Bronnen</a>
+</header>
+    <div id="img-div">
+    <div id="parent-img">
+    <img id="image" src="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/partners/self-driving-car-tesla-elon-musk-banner-1279-d@2x.jpg" alt="Elon Musk Banner" title="Elon Musk"/></div>
+      <div id="img-caption">Elon Musk</div></div>
+    <section id="Bedrijven" title="Bedrijven">
+        <section id="Wit">
+        <h3 id="headline">Alle bedrijven waaraan Elon Musk deelgenomen heeft / deel aan neemt:</h3>
+        <div id="parent-img">
+        <img id="zip2" src="https://www.satorusaka.com/old/elon/Logo/zip2.png" alt="zip2" title="Zip2">
+        <img id="paypal" src="https://tolunanl.files.wordpress.com/2017/09/paypal-avis.png" alt="paypal" title="PayPal">
+        <img id="spaceX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/1200px-SpaceX-Logo.svg.png" alt="spaceX" title="SpaceX">
+        <img id="tesla" src="https://i0.wp.com/www.rijnvogelaar.nl/wp-content/uploads/2018/12/tesla-logo.jpg?ssl=1" alt="Tesla" title="Tesla">
+        <img id="Solarcity" src="http://ecosummit.net/uploads/solarcity_smart_green_utility_620.jpg" alt="Solarcity" title="Solarcity">
+        <img id="TBC" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Boring_Company_Logo.svg/1200px-The_Boring_Company_Logo.svg.png" alt="TBC" title="TBC">
+          </div>
+        <hr>
+        <hr id="lijn">
+        </section>
+    </section>
+    <section id="tribute-info" title="Tijdlijn">
+        <section id="wit2">
+            <h3 id="headline2">Tijdlijn van alle het leven van Elon Musk:</h3><hr>
+            <ul>
+                <li><strong>28 juni 1971</strong> - Geboorte Elon Musk in Pretoria, Zuid-Afrika, zoon van Maye Musk en Errol Musk.</li>
+                <li><strong>Maart 1981</strong> - Ouders waren gescheiden op 10 jarige leeftijd, rond die tijd begon hij met interesse krijgen in computers.</li>
+                <li><strong>Maart 1984</strong> - Simpele game verkocht aan een tijdschrift voor rond de $500. Elon noemde deze game Blastar.</li>
+                <li><strong>Juni 1989</strong> - Op 17 jarige leeftijd verhuisde Elon Musk naar Canada om militaire dienstplicht te omzijlen.</li>
+                <li><strong>Augustus 1992</strong> - Elon Musk verhuisde uit Canada om aan de Universiteit van Pennsylvania bedrijfskunde te gaan studeren. Hij is met een Bachelor in bedrijfskunde afgestudeert en is daarna verder gaan studeren voor een tweede Bachelor in natuurkunde.</li>
+                <li><strong>Februari 1995</strong> - Elon Musk en zijn broer Kimbal Musk startte het bedrijf Zip2. Een software bedrijf dat gedreven werd door investeerders.</li>
+                <li><strong>Februari 1999</strong> - Elon Musk verkocht Zip2 aan Compaq. Het bedrijf was verkocht voor 307 miljoen dollars en 34 miljoen dollars in aandelen. Elon Musk kreeg 22 miljoen dollars van deze verkoop.</li>
+                <li><strong>Maart 1999</strong> - Elon Musk startte samen met andere een nieuw bedrijf: X.com. Het was een geld transfer systeem dat niet ingewikkeld was in gebruik en zeer veilig voor die tijd was.</li>
+                <li><strong>Maart 2000</strong> - Confinity Inc. en X.com werden samengevoegd tot 1 betaalsysteem dat Paypal genoemd werd.</li>
+                <li><strong>Januari 2000</strong> - Elon Musk trouwde met Justine Wilson. Ze hebben samen 6 kinderen waarvan 1 gestorven is na 10 weken aan SIDS.</li>
+                <li><strong>Mei 2002</strong> - Elon Musk startte het bedrijf SpaceX met 100 miljoen van zijn eigen vermogen. Met als doel om op een dag Mars te bereiken en leven mogelijk te maken</li>
+                <li><strong>October 2002</strong> - Paypal werd gekocht door Ebay voor 1.5 miljard dollars in aandelen. Van deze 1.5 miljard kreeg Elon Musk 150 miljoen dollars in Ebay aandelen.</li>
+                <li><strong>Juli 2003</strong> - Martin Eberhard en Marc Tarpenning startte Tesla. Elon Musk kwam erbij in 2004 met een 70 miljoen dollars bijdrage. Elon Musk hielp met het designen van de eerste Tesla sportauto (Tesla roadster).</li>
+                <li><strong>Juli 2006</strong> - Elon Musk heeft het idee van Solarcity gefinancierd. Dit bedrijf was gestart door zijn neven: Lyndon en Peter Rive.</li>
+                <li><strong>Mei 2012</strong> - SpaceX voertuig: Dragon Docked word naar het internationale space station (ISS) gestuurd. Dit zet de geschiedenis als het eerste commerciele bedrijf dat een voertuig naar ISS gestuurt heeft.</li>
+                <li><strong>September 2014</strong> - Tesla kondigt de eerste generatie autopilot aan. Gebasserd op Systeem Image Recognition (SIR).</li>
+                <li><strong>Juli 2016</strong> - Elon Musk start het bedrijf Neuralink een neurotechnologisch bedrijf dat apparaten maakt die in de hersenen kunnen worden geimplementeerd.</li>
+                <li><strong>May 2016</strong> - SpaceX maakt opnieuw geschiedenis door de Falcon 9 op een drone schip in zee te laten landen.</li>
+                <li><strong>Januari 2021</strong> - Elon Musk is de rijkste man op aarde volgens de schattingen van Forbes. Volgens Forbes is Elon Musk met minder dan een miljard verschil rijker dan Jeff Bezos die voor dat moment de rijkste man op aarde was.</li>
+            </ul>
+            <hr id="lijn2">
+        </section>
+    </section>
+    <section id="Bronnen" title="Bronnen">
+        <section id="wit3">
+            <h3 id="headline3">Bronnen die ik gebruikt heb in dit project:</h3>
+            <a id=tekst>Deze site is gemaakt voor educationele doeleinden en hieronder een lijst van bronnen die gebruikt zijn voor deze reden:</a><hr>
+            <a id="informatie1" alt="Informatie bronnen" title="Informatie bronnen">Informatie bronnen:</a></br></br>
+            <a id="tribute-link" alt="Wikipedia Elon Musk" title="Wikipedia Elon Musk" href="https://nl.wikipedia.org/wiki/Elon_Musk" target="_blank">https://nl.wikipedia.org/wiki/Elon_Musk</a></br>
+            <a id="informatie2" alt="Video Elon Musk" title="Video Elon Musk" href="https://www.youtube.com/watch?v=-apCR8R2_8A" target="_blank">https://www.youtube.com/watch?v=-apCR8R2_8A</a></br></br>
+            <a id="bronnen1" alt="Foto bronnen" title="Foto bronnen">Foto's bronnen:</a></br></br>
+            <a id="bronnen2" href="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/partners/self-driving-car-tesla-elon-musk-banner-1279-d@2x.jpg" target="_blank">https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/partners/self-driving-car-tesla-elon-musk-banner-1279-d@2x.jpg</a></br>
+            <a id="bronnen2" href="https://www.satorusaka.com/old/elon/Logo/zip2.png" target="_blank">https://www.satorusaka.com/old/elon/Logo/zip2.png</a></br>
+            <a id="bronnen2" href="https://tolunanl.files.wordpress.com/2017/09/paypal-avis.png" target="_blank">https://tolunanl.files.wordpress.com/2017/09/paypal-avis.png</a></br>
+            <a id="bronnen2" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/1200px-SpaceX-Logo.svg.png" target="_blank">https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/1200px-SpaceX-Logo.svg.png</a></br>
+            <a id="bronnen2" href="https://i0.wp.com/www.rijnvogelaar.nl/wp-content/uploads/2018/12/tesla-logo.jpg?ssl=1" target="_blank">https://i0.wp.com/www.rijnvogelaar.nl/wp-content/uploads/2018/12/tesla-logo.jpg?ssl=1</a></br>
+            <a id="bronnen2" href="http://ecosummit.net/uploads/solarcity_smart_green_utility_620.jpg" target="_blank">http://ecosummit.net/uploads/solarcity_smart_green_utility_620.jpg</a></br>
+            <a id="bronnen2" href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Boring_Company_Logo.svg/1200px-The_Boring_Company_Logo.svg.png" target="_blank">https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_Boring_Company_Logo.svg/1200px-The_Boring_Company_Logo.svg.png</a></br>
+            <hr id="lijn3"> 
+        </section>
+    </section>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</body></main>
+</html>
